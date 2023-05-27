@@ -31,7 +31,6 @@ function Home() {
             <Unity
                 unityContext={unityContext}
                 matchWebGLToCanvasSize={true}
-                style={{ height: "100vh" }}
             />
         </div>
     );
